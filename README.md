@@ -57,5 +57,3 @@ License
 This project is free to use, modify, and share.
 
 Tie: Both choices are the same.
-
-A
