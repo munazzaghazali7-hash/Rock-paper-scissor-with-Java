@@ -26,6 +26,36 @@ You win: Your choice beats the computer's choice.
 
 You lose: Computer's choice beats yours.
 
+Example Gameplay
+
+Enter your move (rock, paper, scissor)
+rock
+Computer's choice scissor
+YOU WIN!
+Play again (yes/no)
+no
+Thanks for playing!
+
+Requirements
+
+Java JDK installed
+
+A console or terminal to run the program
+
+How to Run
+
+Clone or download the repository.
+
+Compile the program:
+javac Main.java
+
+Run the program:
+java Main
+
+License
+
+This project is free to use, modify, and share.
+
 Tie: Both choices are the same.
 
 After each round, you can choose to play again by typing yes or exit by typing no.
