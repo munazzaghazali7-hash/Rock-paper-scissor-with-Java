@@ -58,4 +58,4 @@ This project is free to use, modify, and share.
 
 Tie: Both choices are the same.
 
-After each round, you can choose to play again by typing yes or exit by typing no.
+A
